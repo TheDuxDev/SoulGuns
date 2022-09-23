@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "soulguns:nezerthran_ingot"
+    }
+  ],
+  "result": {
+    "item": "soulguns:nezerthran_nugget",
+    "count": 9
+  }
+}

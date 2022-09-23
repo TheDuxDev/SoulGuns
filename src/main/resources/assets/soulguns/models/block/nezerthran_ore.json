@@ -1,0 +1,6 @@
+{
+  "parent":"block/cube_all",
+  "textures": {
+    "all": "soulguns:block/nezerthran_ore"
+  }
+}

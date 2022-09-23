@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "O": {
+      "item": "soulguns:monolith_crystal"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GOG",
+    "GGG"
+  ],
+  "result": {
+    "item": "soulguns:mono_virus"
+  }
+}

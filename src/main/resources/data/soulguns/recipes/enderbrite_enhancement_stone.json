@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "soulguns:monolith_crystal"
+    },
+    {
+      "item": "soulguns:enderbrite_ingot"
+    }
+  ],
+  "result": {
+    "item": "soulguns:enderbrite_enhancement_stone"
+  }
+}

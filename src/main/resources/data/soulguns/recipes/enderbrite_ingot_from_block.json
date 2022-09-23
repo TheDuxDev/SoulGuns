@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "soulguns:enderbrite_block"
+    }
+  ],
+  "result": {
+    "item": "soulguns:enderbrite_ingot",
+    "count": 9
+  }
+}

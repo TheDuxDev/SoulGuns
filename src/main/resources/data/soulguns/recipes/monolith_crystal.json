@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "O": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "pattern": [
+    "OGO",
+    "GSG",
+    "OGO"
+  ],
+  "result": {
+    "item": "soulguns:monolith_crystal"
+  }
+}

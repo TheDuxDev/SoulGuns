@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "soulguns:nezerthran_enhancement_stone"
+  },
+  "base": {
+    "item": "soulguns:nezerthran_sword"
+  },
+  "result": {
+    "item": "soulguns:enhanced_nezerthran_sword"
+  }
+}

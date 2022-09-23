@@ -1,0 +1,9 @@
+{ "replace": false,
+  "values": [
+    "soulguns:nezerthran_block",
+    "soulguns:nezerthran_ore",
+    "soulguns:enderbrite_block",
+    "soulguns:enderbrite_ore"
+
+  ]
+}

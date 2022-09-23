@@ -1,0 +1,27 @@
+{
+  "item.soulguns.nezerthran_ingot": "Nezerthran Ingot",
+  "item.soulguns.nezerthran_nugget": "Nezerthran Nugget",
+  "item.soulguns.nezerthran_sword": "Nezerthran Sword",
+  "item.soulguns.enhanced_nezerthran_sword": "Enhanced Nezerthran Sword",
+  "item.soulguns.raw_nezerthran": "Raw Nezerthran",
+  "item.soulguns.nezerthran_enhancement_stone": "Nezerthran Enhancement Stone",
+  "item.soulguns.mono_virus": "Mono Virus",
+  "item.soulguns.monolith_crystal": "Monolith Crystal",
+  "item.soulguns.plasma_fuel": "Plasma Fuel",
+  "item.soulguns.enderbrite_ingot": "Enderbrite Ingot",
+  "item.soulguns.enderbrite_nugget": "Enderbrite Nugget",
+  "item.soulguns:enderbrite_enhancement_stone": "Enderbrite Enhancement Stone",
+  "item.soulguns.enderbrite_sword": "Enderbrite Sword",
+  "item.soulguns.enhanced_enderbrite_sword": "Enhanced Enderbrite Sword",
+  "item.soulguns.raw_enderbrite": "Raw Enderbrite",
+
+  "block.soulguns.nezerthran_block": "Nezerthran Block",
+  "block.soulguns.nezerthran_ore": "Nezerthran Ore",
+  "block.soulguns.enderbrite_block": "Enderbrite Block",
+  "block.soulguns.enderbrite_ore": "Enderbrite Ore",
+
+
+  "itemGroup.soulguns.nezerthran": "Nezerthran Items",
+  "itemGroup.soulguns.enderbrite": "Enderbrite Items",
+  "itemGroup.soulguns.monolith_materials": "Monolith Items"
+}

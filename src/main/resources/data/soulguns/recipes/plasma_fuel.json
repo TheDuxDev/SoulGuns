@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "item": "minecraft:iron_ingot"
+    },
+    "O": {
+      "item": "soulguns:monolith_crystal"
+    },
+    "S": {
+      "item": "minecraft:blaze_rod"
+    },
+    "T": {
+      "item": "soulguns:nezerthran_ingot"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "TST",
+    "GGG"
+  ],
+  "result": {
+    "item": "soulguns:plasma_fuel"
+  }
+}

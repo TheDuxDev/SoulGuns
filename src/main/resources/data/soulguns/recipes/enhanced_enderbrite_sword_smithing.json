@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "soulguns:enderbrite_enhancement_stone"
+  },
+  "base": {
+    "item": "soulguns:enderbrite_sword"
+  },
+  "result": {
+    "item": "soulguns:enhanced_enderbrite_sword"
+  }
+}
